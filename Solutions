@@ -1,0 +1,32 @@
+Day0 -- 13th April, 2020, Time -- 08:49 AM
+Q. https://www.hackerrank.com/challenges/30-hello-world/problem
+Solution: a = "Hello, World."
+          b = str(input())
+          print(a)
+          print(b)
+
+Day1 -- 13th April, 2020, Time -- 9:08 AM
+As the first exercise was very easy, why not do the second one too so that I can finish the callenge in one less day?
+Q. https://www.hackerrank.com/challenges/30-data-types/problem
+Solution: i = 4
+          d = 4.0
+          s = 'HackerRank '
+          a = int(input())
+          b = float(input())
+          c = str(input())
+          print(a+i)
+          print(round((b+d),1))
+          print(s+c)
+
+Day2 -- 13th April, 2020, Time -- 9:14 AM
+This is the last question I'm doing today. This is a 30 days challenge and should be treated like one. I intend to complete this challenge on 9th of May. 
+Q. https://www.hackerrank.com/challenges/30-operators/problem
+Solution: a = float(input())
+          b = int(input())
+          c = int(input())
+          d = ((b/100)*a)
+          e = ((c/100)*a)
+          f = a + d + e
+          print(int(round(f)))
+          
+ Day3 -- 
