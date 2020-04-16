@@ -28,5 +28,11 @@ Solution: a = float(input())
           e = ((c/100)*a)
           f = a + d + e
           print(int(round(f)))
-          
- Day3 -- 
+         
+ Day10 -- 16th April 2020, Time -- 19:09 PM
+ Q. https://www.hackerrank.com/challenges/30-binary-numbers/problem
+ Solution: a = int(input())
+b = bin(a)[2:].split('0')
+print(max([len(str(i)) for i in b]))
+
+
