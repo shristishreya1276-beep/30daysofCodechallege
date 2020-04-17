@@ -35,4 +35,10 @@ Solution: a = float(input())
 b = bin(a)[2:].split('0')
 print(max([len(str(i)) for i in b]))
 
-
+Day16 -- 17th April 2020, Time -- 10:10 AM
+Q. https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
+Solution:a = str(input())
+try:
+    print(int(a))
+except:
+    print("Bad String") 
